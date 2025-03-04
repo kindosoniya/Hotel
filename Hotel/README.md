@@ -2,6 +2,8 @@
 
 **Project Name** is a modern, responsive website design showcasing various sections including a hero home section, services, gallery, rooms, counter, customer testimonials, and footer. The website is styled using custom CSS with a mobile-first approach, ensuring optimal usability across different screen sizes.
 
+You can view the live version of the website here: [Crowny Hotel](https://crownyhotel.netlify.app/)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
